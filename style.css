@@ -1,6 +1,7 @@
 @import url(./header.css);
 :root{--cordefundo:#ebecee;
---branco:#FFFFFF;}
-
-
+--branco:#FFFFFF;
+--laranja:#eb9b00;
+--azul-degradete: linear-gradient(97.54deg,#002f52 35,49%,#326589 165.37%):
+}
 body{background-color: var(--cordefundo);}
